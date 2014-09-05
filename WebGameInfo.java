@@ -1,4 +1,5 @@
 
+
 /**
  * This class is basically a POJO (Plain Old Java Object), wrapping
  * a name and a URL together to facilitate use in the GUI as users
